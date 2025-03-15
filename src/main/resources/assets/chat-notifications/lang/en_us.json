@@ -1,0 +1,6 @@
+{
+  "chat-notifications.options.gui_title": "Chat Notifications Options",
+  "chat-notifications.options.category.chat_notifications": "Chat Notifications",
+  "chat-notifications.options.chat_notifications.enabled": "Enabled",
+  "chat-notifications.options.chat_notifications.enabled.description": "Enables/disables the sending of chat notifications."
+}
